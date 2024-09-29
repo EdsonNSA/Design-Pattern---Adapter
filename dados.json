@@ -1,0 +1,49 @@
+{
+    "jogadores": [
+        {
+            "nome": "Edson",
+            "cor": "Vermelho",
+            "objetivo": "Conquistar 24 territ\u00f3rios",
+            "territorios": [
+                "Territ\u00f3rio1",
+                "Territ\u00f3rio5"
+            ],
+            "exercitos": 5,
+            "cartas": [
+                "Infantaria",
+                "Artilharia",
+                "Artilharia"
+            ]
+        },
+        {
+            "nome": "Marcelo",
+            "cor": "Azul",
+            "objetivo": "Conquistar 18 territ\u00f3rios",
+            "territorios": [
+                "Territ\u00f3rio2",
+                "Territ\u00f3rio3"
+            ],
+            "exercitos": 6,
+            "cartas": [
+                "Cavalaria",
+                "Infantaria",
+                "Cavalaria"
+            ]
+        },
+        {
+            "nome": "Pedro",
+            "cor": "Verde",
+            "objetivo": "Conquistar 18 territ\u00f3rios",
+            "territorios": [
+                "Territ\u00f3rio4",
+                "Territ\u00f3rio6"
+            ],
+            "exercitos": 8,
+            "cartas": [
+                "Cavalaria",
+                "Artilharia",
+                "Cavalaria"
+            ]
+        }
+    ]
+}
